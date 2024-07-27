@@ -1,3 +1,3 @@
 # html-demo
-This is my first Repository
-by-Anamika baloria
+This is my first Repository.
+By-Anamika baloria
